@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+xbarq_history.json
+history.json
+package-lock.json
+node_modules/
